@@ -3,10 +3,12 @@
 }
 
 .beneficios_preco .--preco {
-	font-size: 3rem;
+	font-size: 2rem;
+	font-weight: 700;
 }
 
 .beneficios_preco .--mes {
+	vertical-align: super;
 	color: var(--cor-grayish-blue);
 }
 
