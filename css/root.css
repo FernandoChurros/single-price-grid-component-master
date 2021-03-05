@@ -1,0 +1,9 @@
+:root {
+	font-family: "Karla";
+	font-size: 16px;
+
+	--cor-cyan: hsl(179, 62%, 43%);
+	--cor-bright-yellow: hsl(71, 73%, 54%);
+	--cor-light-gray: hsl(204, 43%, 93%);
+	--cor-grayish-blue: hsl(218, 22%, 67%);
+}

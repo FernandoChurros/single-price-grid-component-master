@@ -1,0 +1,28 @@
+.beneficios_preco {
+	background-color: var(--cor-cyan);
+	/*width: 50%;*/
+	padding: 2rem 4rem 2rem 2rem;
+}
+
+.beneficios_preco .--preco {
+	font-size: 3rem;
+}
+
+.beneficios_preco .--mes {
+	color: var(--cor-grayish-blue);
+}
+
+.beneficios_preco p:nth-child(3) {
+	margin: 1rem 0;
+}
+
+.btn {
+	background-color: var(--cor-bright-yellow);
+	border: none;
+	border-radius: 10px;
+	color: var(--cor-light-gray);
+	font-size: 1.3rem;
+	font-weight: 700	;
+	width: 230px;
+	padding: 1rem;
+}
