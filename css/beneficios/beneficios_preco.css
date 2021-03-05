@@ -1,7 +1,5 @@
 .beneficios_preco {
-	background-color: var(--cor-cyan);
-	/*width: 50%;*/
-	padding: 2rem 4rem 2rem 2rem;
+	margin-right: 5rem;
 }
 
 .beneficios_preco .--preco {
