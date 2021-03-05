@@ -11,16 +11,16 @@
 }
 
 .beneficios_preco p:nth-child(3) {
-	margin: 1rem 0;
+	margin: .5rem 0 2rem;
 }
 
 .btn {
 	background-color: var(--cor-bright-yellow);
 	border: none;
-	border-radius: 10px;
+	border-radius: 5px;
 	color: var(--cor-light-gray);
 	font-size: 1.3rem;
 	font-weight: 700	;
-	width: 230px;
-	padding: 1rem;
+	width: 240px;
+	padding: .7rem 1rem;
 }

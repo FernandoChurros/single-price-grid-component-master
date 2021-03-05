@@ -34,7 +34,7 @@
 
 	.conteiner {
 	background-image: 
-		linear-gradient(to bottom, #F9F9F9 50%, #FFF0 50% 100%),
+		linear-gradient(to bottom, #F9F9F9 45%, #FFF0 45% 100%),
 		linear-gradient(to left, #2ab2af 50%, #259F9B 50% 100%);
 	width: 580px;
 	}

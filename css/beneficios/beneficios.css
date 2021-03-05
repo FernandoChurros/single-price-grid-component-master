@@ -1,9 +1,11 @@
 .beneficios {
-	display: flex;
 	color: #F9F9F9;
+	display: flex;
+	padding-top: 3rem;
 }
 
 .beneficios h2 {
 	font-size: 1.2rem;
 	line-height: 2;
+	margin-bottom: 1rem;
 }
